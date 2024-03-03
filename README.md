@@ -2,10 +2,6 @@
 
 # about html with javaScript
 
-Below is the rewritten article:
-
----
-
 The HTML code provided offers a straightforward yet effective calculator interface, designed to facilitate numerical calculations. Let's delve into its components and operational features:
 
 **1. HTML Structure**:
@@ -32,7 +28,6 @@ In summary, this HTML code furnishes a streamlined yet robust calculator interfa
 
 --- 
 
-This rewritten article provides a concise yet detailed overview of the HTML code, elucidating its structural components and operational functionalities.
 
 
 
